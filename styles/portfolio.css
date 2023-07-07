@@ -69,10 +69,29 @@
     font-family: var(--default-font-family);
   }
   
-  .about-section-content {
+  .content-section-content {
     margin: 30px;
   }
   
+  .content-container {
+    padding: 160px 20px;
+  }
+  
+  .content-container h1 {
+    font-size: 64px;
+    line-height: 80px;
+  }
+  
+  .content-container h2 {
+    font-size: 18px;
+    font-family: var(--default-font-family);
+  }
+  
+  .content-container-content {
+    margin: 30px;
+  }
+  
+
   .btn-branding {
     background: var(--branding-color);
     border-radius: 4px;
