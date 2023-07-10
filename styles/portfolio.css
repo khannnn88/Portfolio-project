@@ -212,5 +212,7 @@ footer.social-links a:hover {
       padding: 0;
       text-align: center;
     }
+
+    overflow-x: hidden;
   }
   
