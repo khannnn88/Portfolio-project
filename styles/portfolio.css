@@ -192,16 +192,16 @@ footer.social-links a:hover {
   @media (max-width: 900px) {
     h1 {
       font-size: 44px;
-      line-height: 56px;
+      line-height: 1.5;
     }
   
     h2 {
       font-size: 44px;
     }
   
-    .hero {
-      padding: 80px 20px;
-    }
+    h3 {
+        font-size: 26px;
+      }
   
     .about-section {
       text-align: center;
